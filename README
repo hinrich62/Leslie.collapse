@@ -1,0 +1,7 @@
+# Leslie.collapse
+Aggregate a Leslie matrix model using weights equal to the stable age distribution
+
+Filename | Description
+---------| -----------
+Leslie.collapse.R | R code to aggregate a Leslie matrix
+
